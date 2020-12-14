@@ -1,0 +1,16 @@
+.navbar-brand {
+    color: white !important;
+}
+.navbar-light {
+    background-color: lavender!important;
+    text-shadow: 1px 1px 2px black;
+}
+.bg-light {
+    background-color: lavender;
+    
+}
+.btn-primary {
+    background-color: lavender;
+    border: none;
+    text-shadow: 1px 1px 2px black;
+}
